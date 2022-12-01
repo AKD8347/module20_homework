@@ -1,0 +1,17 @@
+{
+  "name": "module20_homework",
+  "version": "1.0.0",
+  "description": "",
+  "main": "script.js",
+  "scripts": {
+    "start": "http-server -p 5566"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AKD8347/module20_homework"
+  },
+  "author": "",
+  "devDependencies": {
+    "http-server": "^14.1.1"
+  }
+}
